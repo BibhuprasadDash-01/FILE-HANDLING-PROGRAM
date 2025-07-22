@@ -15,6 +15,7 @@
 * WRITE A PROGRAM TO CREATE, READ, WRITE, AND APPEND DATA TO A FILE.
   
   #OUTPUT:
+  <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/192bd1ef-13da-44c7-8c1c-8ae9f2be1839" />
 
   
 * DELIVERABLE: A C PROGRAM DEMONSTRATING VARIOUS FILE OPERATIONS.
