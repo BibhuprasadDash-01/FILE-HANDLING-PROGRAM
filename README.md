@@ -21,5 +21,6 @@
 * DELIVERABLE: A C PROGRAM DEMONSTRATING VARIOUS FILE OPERATIONS.
   
   #OUTPUT:
+  <img width="1920" height="607" alt="Image" src="https://github.com/user-attachments/assets/1cac1abc-2ae2-4da2-81d7-85af121b10ff" />
 
   
